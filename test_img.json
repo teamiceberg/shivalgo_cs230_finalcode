@@ -1,0 +1,426 @@
+{
+    "300854": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_5_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_5_domain_rgb.png"
+    },
+    "302356": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_16_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_16_domain_rgb.png"
+    },
+    "304335": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_19_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_19_domain_rgb.png"
+    },
+    "306575": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_2_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_2_domain_rgb.png"
+    },
+    "305323": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_11_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_11_domain_rgb.png"
+    },
+    "303662": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_10_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_10_domain_rgb.png"
+    },
+    "302180": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_18_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_18_domain_rgb.png"
+    },
+    "304378": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_3_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_3_domain_rgb.png"
+    },
+    "305059": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_17_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_17_domain_rgb.png"
+    },
+    "309814": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_4_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_4_domain_rgb.png"
+    },
+    "307661": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_15_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_15_domain_rgb.png"
+    },
+    "307956": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_6_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_6_domain_rgb.png"
+    },
+    "304888": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_12_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_12_domain_rgb.png"
+    },
+    "306791": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_9_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_9_domain_rgb.png"
+    },
+    "305318": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_32_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_32_domain_rgb.png"
+    },
+    "309033": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_0_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_0_domain_rgb.png"
+    },
+    "309892": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_13_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_13_domain_rgb.png"
+    },
+    "300233": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_8_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_8_domain_rgb.png"
+    },
+    "300303": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_7_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_7_domain_rgb.png"
+    },
+    "302728": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_14_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_14_domain_rgb.png"
+    },
+    "303357": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_3_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_3_domain_rgb.png"
+    },
+    "304402": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_14_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_14_domain_rgb.png"
+    },
+    "309441": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_28_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_28_domain_rgb.png"
+    },
+    "300837": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_20_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_20_domain_rgb.png"
+    },
+    "303203": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_35_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_35_domain_rgb.png"
+    },
+    "304405": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_36_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_36_domain_rgb.png"
+    },
+    "302565": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_23_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_23_domain_rgb.png"
+    },
+    "300132": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_44_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_44_domain_rgb.png"
+    },
+    "307298": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_51_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_51_domain_rgb.png"
+    },
+    "307628": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_52_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_52_domain_rgb.png"
+    },
+    "303034": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_47_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_47_domain_rgb.png"
+    },
+    "307160": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_4_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_4_domain_rgb.png"
+    },
+    "305921": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_48_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_48_domain_rgb.png"
+    },
+    "306289": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_13_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_13_domain_rgb.png"
+    },
+    "307693": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_39_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_39_domain_rgb.png"
+    },
+    "302349": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_24_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_24_domain_rgb.png"
+    },
+    "303023": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_31_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_31_domain_rgb.png"
+    },
+    "303507": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_32_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_32_domain_rgb.png"
+    },
+    "305563": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_27_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_27_domain_rgb.png"
+    },
+    "302945": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_40_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_40_domain_rgb.png"
+    },
+    "308878": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_55_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_55_domain_rgb.png"
+    },
+    "307537": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_56_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_56_domain_rgb.png"
+    },
+    "305700": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_43_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_43_domain_rgb.png"
+    },
+    "308640": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_26_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_26_domain_rgb.png"
+    },
+    "301588": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_33_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_33_domain_rgb.png"
+    },
+    "302556": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_30_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_30_domain_rgb.png"
+    },
+    "302691": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_25_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_25_domain_rgb.png"
+    },
+    "306936": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_42_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_42_domain_rgb.png"
+    },
+    "304568": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_54_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_54_domain_rgb.png"
+    },
+    "302397": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_41_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_41_domain_rgb.png"
+    },
+    "307879": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_49_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_49_domain_rgb.png"
+    },
+    "308389": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_5_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_5_domain_rgb.png"
+    },
+    "301843": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_38_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_38_domain_rgb.png"
+    },
+    "300456": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_12_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_12_domain_rgb.png"
+    },
+    "307503": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_22_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_22_domain_rgb.png"
+    },
+    "309089": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_37_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_37_domain_rgb.png"
+    },
+    "305605": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_34_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_34_domain_rgb.png"
+    },
+    "304092": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_21_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_21_domain_rgb.png"
+    },
+    "309855": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_46_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_46_domain_rgb.png"
+    },
+    "308211": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_53_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_53_domain_rgb.png"
+    },
+    "304835": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_50_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_50_domain_rgb.png"
+    },
+    "302155": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_45_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_45_domain_rgb.png"
+    },
+    "305423": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_2_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_2_domain_rgb.png"
+    },
+    "302478": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_29_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_29_domain_rgb.png"
+    },
+    "308518": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_8_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_8_domain_rgb.png"
+    },
+    "308589": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_52_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_52_domain_rgb.png"
+    },
+    "305448": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_47_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_47_domain_rgb.png"
+    },
+    "308138": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_44_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_44_domain_rgb.png"
+    },
+    "300020": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_51_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_51_domain_rgb.png"
+    },
+    "306843": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_36_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_36_domain_rgb.png"
+    },
+    "302460": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_23_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_23_domain_rgb.png"
+    },
+    "308110": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_20_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_20_domain_rgb.png"
+    },
+    "306328": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_35_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_35_domain_rgb.png"
+    },
+    "309426": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_28_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_28_domain_rgb.png"
+    },
+    "304176": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_0_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_0_domain_rgb.png"
+    },
+    "306054": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_43_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_43_domain_rgb.png"
+    },
+    "308915": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_40_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_40_domain_rgb.png"
+    },
+    "308473": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_55_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_55_domain_rgb.png"
+    },
+    "302583": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_27_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_27_domain_rgb.png"
+    },
+    "307555": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_31_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_31_domain_rgb.png"
+    },
+    "305930": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_10_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_10_domain_rgb.png"
+    },
+    "300954": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_39_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_39_domain_rgb.png"
+    },
+    "305713": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_7_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_7_domain_rgb.png"
+    },
+    "307691": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_48_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_48_domain_rgb.png"
+    },
+    "301792": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_38_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_38_domain_rgb.png"
+    },
+    "307624": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_11_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_11_domain_rgb.png"
+    },
+    "302880": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_49_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_49_domain_rgb.png"
+    },
+    "304030": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_6_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_6_domain_rgb.png"
+    },
+    "301284": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_54_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_54_domain_rgb.png"
+    },
+    "300262": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_41_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_41_domain_rgb.png"
+    },
+    "306704": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_42_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_42_domain_rgb.png"
+    },
+    "306731": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_30_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_30_domain_rgb.png"
+    },
+    "304076": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_25_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_25_domain_rgb.png"
+    },
+    "300676": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_26_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_26_domain_rgb.png"
+    },
+    "308036": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_33_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_33_domain_rgb.png"
+    },
+    "306364": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_29_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_29_domain_rgb.png"
+    },
+    "300343": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_1_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_1_domain_rgb.png"
+    },
+    "301693": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_50_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_50_domain_rgb.png"
+    },
+    "300815": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_45_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_45_domain_rgb.png"
+    },
+    "304907": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_46_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_46_domain_rgb.png"
+    },
+    "305726": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_53_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_53_domain_rgb.png"
+    },
+    "302054": {
+        "name": "camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_9_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_5c2959c3089c4ac5a7c5c913cc0df78d_office_5_frame_9_domain_rgb.png"
+    },
+    "300744": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_34_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_34_domain_rgb.png"
+    },
+    "305132": {
+        "name": "camera_04a287849657478ea774727e5bff5202_office_3_frame_21_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_04a287849657478ea774727e5bff5202_office_3_frame_21_domain_rgb.png"
+    },
+    "306196": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_22_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_22_domain_rgb.png"
+    },
+    "303945": {
+        "name": "camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_37_domain_rgb.png",
+        "path": "/Users/shivamacpro/Desktop/EducationandProjects/StanfordSCPD/CS230/TermProject/Github/Mask_RCNN-Stanford2D/samples/stanford2D/test_s2D/camera_4d491624b8dd4db9999935affb0c4ada_hallway_1_frame_37_domain_rgb.png"
+    }
+}
